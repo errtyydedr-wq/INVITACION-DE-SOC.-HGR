@@ -1,6 +1,12 @@
-Mini sitio web para el 52 aniversario Heraldos del Gran Rey.
+Landing page HGR editada con logo oficial integrado.
 
-Para usarlo:
-1. Abre index.html en tu navegador.
-2. Para publicarlo gratis, sube todo el contenido de esta carpeta a Netlify, Vercel o GitHub Pages.
-3. El PDF puede llevar un botón o QR apuntando al enlace publicado.
+Para publicar en GitHub Pages:
+1. Descomprime este ZIP.
+2. Sube TODO el contenido al repositorio, reemplazando archivos anteriores.
+3. Verifica que index.html quede en la raíz del repositorio.
+4. GitHub Pages debe estar en: main / (root).
+
+Incluye:
+- Logo en header, portada, favicon y footer.
+- Botones de WhatsApp, ubicación y PDF.
+- Cuenta regresiva al evento.
