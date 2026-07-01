@@ -1,12 +1,11 @@
-Landing page HGR editada con logo oficial integrado.
+Proyecto web actualizado para Heraldos del Gran Rey.
 
-Para publicar en GitHub Pages:
-1. Descomprime este ZIP.
-2. Sube TODO el contenido al repositorio, reemplazando archivos anteriores.
-3. Verifica que index.html quede en la raíz del repositorio.
-4. GitHub Pages debe estar en: main / (root).
+Cambios incluidos:
+- Contacto de confirmación: Jane Moreno, +52 81 2406 4249.
+- Botones de WhatsApp actualizados.
+- Comisión de Hospedaje: +52 81 2008 7126.
+- Tema base: 1 Pedro 5:8.
+- Culto de aniversario: 10:30 a. m.
+- Se quitó “Justicia y Verdad” de la página.
 
-Incluye:
-- Logo en header, portada, favicon y footer.
-- Botones de WhatsApp, ubicación y PDF.
-- Cuenta regresiva al evento.
+Para publicar: sube el contenido de esta carpeta a GitHub Pages o tu hosting.
