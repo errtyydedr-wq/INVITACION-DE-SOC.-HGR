@@ -1,0 +1,6 @@
+Mini sitio web para el 52 aniversario Heraldos del Gran Rey.
+
+Para usarlo:
+1. Abre index.html en tu navegador.
+2. Para publicarlo gratis, sube todo el contenido de esta carpeta a Netlify, Vercel o GitHub Pages.
+3. El PDF puede llevar un botón o QR apuntando al enlace publicado.
