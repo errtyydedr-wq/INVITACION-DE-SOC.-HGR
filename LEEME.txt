@@ -13,3 +13,6 @@ Para publicar en GitHub Pages:
 1. Sube TODO el contenido de esta carpeta al repositorio.
 2. Reemplaza los archivos anteriores.
 3. En Settings > Pages, usa main / root.
+
+
+Actualización: Se agregó aviso de uso y privacidad en el pie de página y etiqueta robots noindex/nofollow/noarchive para reducir la indexación en buscadores. GitHub Pages continúa siendo un sitio público; para acceso realmente privado se requiere autenticación externa.
